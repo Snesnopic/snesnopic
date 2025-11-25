@@ -46,7 +46,7 @@ A modular, cross-platform framework for lossless file recompression and archival
 
 - Combines more than 20 libraries into a single CLI, shared or static library.
 - Recursively compresses directories, archives, nested files, music cover arts.
-- Supports 50 file formats, increasing every week.
+- Supports 50 file formats.
 - Fully cross-platform (Windows x64/ARM64, Linux x64/ARM64, macOS x64/ARM64, FreeBSD soon).
 
 ### [Morser](https://github.com/Snesnopic/Morser)  
