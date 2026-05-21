@@ -1,6 +1,6 @@
 # Software Engineer
 
-Focused on low-level programming, compression algorithms, and system architecture.  Current Master's student in **Foundations of Software** at the University of Pisa.
+Focused on low-level programming, compression algorithms, and programming languages. Current Master's student in **Foundations of Software** at the University of Pisa.
 
 ---
 
@@ -42,12 +42,12 @@ Focused on low-level programming, compression algorithms, and system architectur
 
 #### C++, CMake
 
-A modular, cross-platform framework for lossless file recompression and archival optimization.
+A cross-platform framework for lossless file recompression and archival optimization.
 
 - Combines more than 20 libraries into a single CLI, shared or static library.
 - Recursively compresses directories, archives, nested files, music cover arts.
-- Supports 50 file formats.
-- Fully cross-platform (Windows x64/ARM64, Linux x64/ARM64, macOS x64/ARM64, FreeBSD soon).
+- Supports 50+ file formats.
+- Fully cross-platform (Windows x64/ARM64, Linux x64/ARM64, macOS x64/ARM64, FreeBSD x64/ARM64).
 
 ### [Morser](https://github.com/Snesnopic/Morser)  
 
@@ -64,7 +64,4 @@ An accessibility utility for iOS and WatchOS designed to facilitate communicatio
 
 ## Things I focus on
 
-Strong interest in the intersection of mathematics and software engineering, specifically in memory management and data compression.
-
-- **Languages:** C++, C, Swift, Java, TypeScript.  
-- **Systems:** Linux, macOS, Red Hat, iOS/WatchOS ecosystem.
+I study programming languages, compilers and data compression.
