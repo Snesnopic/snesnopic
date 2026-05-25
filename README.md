@@ -1,6 +1,8 @@
 # Software Engineer
 
-Focused on low-level programming, compression algorithms, and programming languages. Current Master's student in **Foundations of Software** at the University of Pisa.
+Focused on low-level programming, compression algorithms, and programming languages.
+
+Currently a master's degree student in **Foundations of Software** at the University of Pisa.
 
 ---
 
@@ -16,7 +18,7 @@ Focused on low-level programming, compression algorithms, and programming langua
 
 - **Apple Developer Academy**  
   University of Naples Federico II  
-  iOS/WatchOS development
+  Apple platform development
 
 ---
 
@@ -38,20 +40,20 @@ Focused on low-level programming, compression algorithms, and programming langua
 
 ## My half-decent projects
 
-### [Chisel](https://github.com/Snesnopic/chisel)  
+### [chisel](https://github.com/Snesnopic/chisel)  
 
 #### C++, CMake
 
-A cross-platform framework for lossless file recompression and archival optimization.
+A cross-platform library for lossless file optimization.
 
 - Combines more than 20 libraries into a single CLI, shared or static library.
 - Recursively compresses directories, archives, nested files, music cover arts.
-- Supports 50+ file formats.
+- Supports 60+ file formats.
 - Fully cross-platform (Windows x64/ARM64, Linux x64/ARM64, macOS x64/ARM64, FreeBSD x64/ARM64).
 
 ### [Morser](https://github.com/Snesnopic/Morser)  
 
-#### Swift, CoreHaptics, SwiftUI
+#### Swift, SwiftUI
 
 An accessibility utility for iOS and WatchOS designed to facilitate communication for blind-deaf individuals.
 
@@ -60,8 +62,3 @@ An accessibility utility for iOS and WatchOS designed to facilitate communicatio
 - Supports Latin, Greek, Cyrillic (standard and extended), Hebrew, Arabic, Persian, Kurdish, Devanagari, Korean, Japanese, Thai.
 - Works on iOS, iPadOS, watchOS, macOS, visionOS... and tvOS?
 
----
-
-## Things I focus on
-
-I study programming languages, compilers and data compression.
